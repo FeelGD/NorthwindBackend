@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ObIOwf/V0BH8QmGgzPtNOQeU1Telp77WySzkaIPQS2MYCh2uCPj1LDs5LEQQEkMIARmmHCOq+UzqpG04+XsTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aiyil\\source\\repos\\NorthwindBackend\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

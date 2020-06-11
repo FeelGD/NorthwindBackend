@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MEboXJfNMsGwXN7CnYGaug+fISh4CcurrXs48mlUcigqBvVKn5xo/mYel5AY3LJJdEmOCYkQ5dcYOtKN4P4UfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aiyil\\source\\repos\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
